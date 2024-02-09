@@ -24,6 +24,8 @@ Ready to explore the ride? Check out the code, analysis, and recommendations in 
 
 Bonus: Feel free to ask questions or suggest improvements!
 
+You can download data from here: [**link**](https://www.kaggle.com/datasets/mubashirulhassan00/cyclistics-historical-trip-data/data)
+
 P.S. Big thanks to Google Data Analytics for the awesome learning experience!
 
 Hashtags: #dataanalysis #cyclistic #bikes #marketing #insights #google #finalproject
