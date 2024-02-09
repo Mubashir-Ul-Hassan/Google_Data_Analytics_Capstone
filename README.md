@@ -1,18 +1,18 @@
 # Google_Data_Analytics_Capstone
 
 **Conquered Cyclistic's Bike Data:** Insights Galore from a Data Dive (Final Project - Google Data Analytics)
-This project isn't just a report, it's an  achievement! I embarked on a data adventure with Cyclistic, their bike trips, and their users: casual riders and annual members. My mission? Dive deep ️‍♀️ and uncover insights to **boost their marketing strategy **.
+This project isn't just a report, it's an  achievement! I embarked on a data adventure with Cyclistic, their bike trips, and their users: casual riders and annual members. My mission? Dive deep ️‍♀️ and uncover insights to **boost their marketing strategy**.
 
 Here's the journey in emojis:
 
-**ASK **: What drives user behavior?
-PREPARE ️: Wrangled & cleaned Cyclistic's data ➡️.
-PROCESS ⚙️: R & Tableau, my trusty tools!
-**ANALYZE **: Unearthed user patterns & preferences ✨.
-SHARE ️: Visualizations galore!
-**ACT **: Actionable recommendations to convert & retain users .
+**ASK**: What drives user behavior?
+**PREPARE**: Wrangled & cleaned Cyclistic's data➡️.
+**PROCESS**: R & Tableau, my trusty tools!
+**ANALYZE**: Unearthed user patterns & preferences✨.
+**SHARE** ️: Visualizations galore!
+**ACT**: Actionable recommendations to convert & retain users.
 
-**The verdict? **:
+**The verdict?**:
 
 Casual riders ️ prefer leisure rides, weekends rule!
 Members rely on bikes for commutes, consistency rocks! ️
